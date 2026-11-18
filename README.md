@@ -1,4 +1,4 @@
-#Studi Kasus 01 (CRUD Manajemen Buku)
+# Studi Kasus 01 (CRUD Manajemen Buku)
 
 Aplikasi web manajemen data buku berbasis **Laravel** dan **MySQL** untuk mata kuliah **Pemrograman Web Lanjut**. Studi kasus ini berfokus pada perbaikan alur Create, Read, Delete, validasi input form, serta pengaturan rute utama.
 
